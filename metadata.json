@@ -1,0 +1,6 @@
+{
+  "name": "¡Habla y juega! - Spanish Practice for Gayane & Razmik",
+  "description": "Interactive Spanish speaking game for Gayane and Razmik with restaurant and supermarket topics, paper slip unfolding animations, and Armenian translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
